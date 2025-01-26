@@ -1,4 +1,7 @@
-*
-!.gitignore
-!nvim
-!nix
+StardewValley
+configstore
+flutter
+gh
+ghc
+gtk-2.0
+helix

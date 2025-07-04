@@ -35,6 +35,7 @@ return {
 			"bash",
 			"c",
 			"diff",
+			"go",
 			"jsdoc",
 			"json",
 			"lua",

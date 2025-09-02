@@ -42,6 +42,7 @@ return {
 			"luadoc",
 			"markdown",
 			"python",
+			"perl",
 			"regex",
 			"toml",
 			"vim",
